@@ -4,6 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Project/Demo/KotlinDemo/Weather/app/src/main/res/layout/activity_main.xml" value="0.12817028985507245" />
+        <entry key="..\:/Project/Demo/KotlinDemo/Weather/app/src/main/res/layout/fragment_place.xml" value="0.22083333333333333" />
+        <entry key="..\:/Project/Demo/KotlinDemo/Weather/app/src/main/res/layout/place_item.xml" value="0.1802536231884058" />
       </map>
     </option>
   </component>
